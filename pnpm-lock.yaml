@@ -89,6 +89,7 @@ specifiers:
   prettier: ^2.8.0
   prettier-plugin-packagejson: ^2.3.0
   prismjs: ^1.29.0
+  prop-types: ^15.8.1
   react: ^18.2.0
   react-dom: ^18.2.0
   react-test-renderer: ^18.2.0
@@ -142,6 +143,7 @@ dependencies:
   gatsby-transformer-sharp: 5.3.1_a3xympvnoaczhgmv7destufpva
   graphql: 16.6.0
   prismjs: 1.29.0
+  prop-types: 15.8.1
   react: 18.2.0
   react-dom: 18.2.0_react@18.2.0
   webpack: 5.75.0_@swc+core@1.3.24
